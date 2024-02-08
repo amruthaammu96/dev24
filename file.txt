@@ -1,0 +1,9 @@
+#!/bin/bash
+print empty lines
+display all the files
+enter all the data 
+list all directories
+find hidden files
+disk space
+system storage
+ram memory
